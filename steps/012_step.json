@@ -1,0 +1,21 @@
+{
+  "event": "step",
+  "step": 12,
+  "pose": [
+    3.8525144294986764,
+    -0.01652718635586024
+  ],
+  "goal_dist": 0.5022633227137279,
+  "last_d": 1.4969566183538325,
+  "last_surprise": 0.6980848265539403,
+  "last_heard_range": 1.8793613732337813,
+  "reached": false,
+  "status_msg": "navigating",
+  "pushed_paths_count": 12,
+  "last_pushed_path": [
+    0.35391877055737736,
+    0.012834899927719069
+  ],
+  "timestamp": "2026-09-26T00:23:23.443628+00:00",
+  "robot_repr": "<AxbRobot 'Opti' pose=[ 3.85 -0.02] steps=12 status='navigating'>"
+}
