@@ -1,0 +1,21 @@
+{
+  "event": "step",
+  "step": 13,
+  "pose": [
+    3.962778391448812,
+    0.024285846635852388
+  ],
+  "goal_dist": 0.1484086971674579,
+  "last_d": 1.1232698741535385,
+  "last_surprise": 0.21481584948107635,
+  "last_heard_range": 1.982048765369736,
+  "reached": true,
+  "status_msg": "reached demand point",
+  "pushed_paths_count": 13,
+  "last_pushed_path": [
+    0.11026396195013562,
+    0.04081303299171263
+  ],
+  "timestamp": "2026-09-26T00:23:32.824922+00:00",
+  "robot_repr": "<AxbRobot 'Opti' pose=[3.96 0.02] steps=13 status='reached demand point'>"
+}
