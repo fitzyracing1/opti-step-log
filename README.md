@@ -35,3 +35,11 @@ All step files are under `/steps/`.
 - Solve form: x = pinv(A) @ b * (1.0 / c) / d
 
 Opti will continue logging every future run into this same repo.
+
+## Plans
+
+This project is free, and its license stays as is. Support it through [GitHub Sponsors](https://github.com/sponsors/fitzyracing1):
+
+- **Free**: use the code, community support.
+- **Pro ($49/month)**: priority issues and support.
+- **Team ($199/month)**: priority support for your team plus early access.
